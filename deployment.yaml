@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: my-container
-        image: prixe/dorakdorak-frontend:latest 
+        image: yeon2lee/dorakdorak-frontend:latest 
         ports:
         - containerPort: 80
 
